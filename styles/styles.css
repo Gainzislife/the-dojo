@@ -1,6 +1,7 @@
 html {
   background-color: rgb(66, 146, 238);
   font-family: Helvetica;
+  overflow-x: hidden;
 }
 
 h1 {
